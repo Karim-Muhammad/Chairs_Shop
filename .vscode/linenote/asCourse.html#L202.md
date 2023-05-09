@@ -1,0 +1,1 @@
+Concept "Sprites" rely on `image-position`.
